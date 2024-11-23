@@ -337,7 +337,7 @@ async function forbiddenPage() {
                         <li>支持多种协议</li>
                         <li>省电模式</li>
                     </ul>
-                    <a href="#" class="download-btn" target="_blank">了解更多</a>
+                    <a href="https://github.com/KaringX/karing" class="download-btn" target="_blank">了解更多</a>
                 </div>
             </div>
             
@@ -356,7 +356,7 @@ async function forbiddenPage() {
                         <li>策略组切换</li>
                         <li>流量统计</li>
                     </ul>
-                    <a href="https://github.com/Fclash/Fclash" class="download-btn" target="_blank">了解更多</a>
+                    <a href="https://github.com/chen08209/FlClash" class="download-btn" target="_blank">了解更多</a>
                 </div>
             </div>
         </div>
